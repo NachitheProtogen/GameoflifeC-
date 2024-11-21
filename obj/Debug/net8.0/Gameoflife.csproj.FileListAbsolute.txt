@@ -1,0 +1,15 @@
+/home/nachi/Desktop/Github/C#/Gameoflife/bin/Debug/net8.0/Gameoflife
+/home/nachi/Desktop/Github/C#/Gameoflife/bin/Debug/net8.0/Gameoflife.deps.json
+/home/nachi/Desktop/Github/C#/Gameoflife/bin/Debug/net8.0/Gameoflife.runtimeconfig.json
+/home/nachi/Desktop/Github/C#/Gameoflife/bin/Debug/net8.0/Gameoflife.dll
+/home/nachi/Desktop/Github/C#/Gameoflife/bin/Debug/net8.0/Gameoflife.pdb
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.GeneratedMSBuildEditorConfig.editorconfig
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.AssemblyInfoInputs.cache
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.AssemblyInfo.cs
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.csproj.CoreCompileInputs.cache
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.sourcelink.json
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.dll
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/refint/Gameoflife.dll
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.pdb
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/Gameoflife.genruntimeconfig.cache
+/home/nachi/Desktop/Github/C#/Gameoflife/obj/Debug/net8.0/ref/Gameoflife.dll
