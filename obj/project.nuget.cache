@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zU6CZNs2yZw8LvCsSxZ5LWvx26W80oZ4lH34IgeFn48Yx2KZrG7r5fkGLWzBxsbaNwcYjvW4Q8nqgsBnsDMuVw==",
+  "dgSpecHash": "UHMbXpcrmb0=",
   "success": true,
-  "projectFilePath": "/home/nachi/Desktop/Github/C#/Gameoflife/Gameoflife.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Nachi\\Desktop\\GithubProjects\\C#\\GameoflifeC#\\GameoflifeC-\\Gameoflife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nachi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\Nachi\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.6\\microsoft.netcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Nachi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\Nachi\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.6\\microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

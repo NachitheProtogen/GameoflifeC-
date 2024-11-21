@@ -1,0 +1,2 @@
+C:\Users\Nachi\Desktop\GithubProjects\C#\GameoflifeC#\GameoflifeC-\bin\Release\net8.0\win-x64\publish\Gameoflife.pdb
+C:\Users\Nachi\Desktop\GithubProjects\C#\GameoflifeC#\GameoflifeC-\bin\Release\net8.0\win-x64\publish\Gameoflife.exe
